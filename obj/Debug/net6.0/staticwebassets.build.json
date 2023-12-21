@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aTrWbrlgykNvHINh2mYo44VlA5ptpyUBrVZdc1YEQeE=",
+  "Source": "PoolManagerBackend",
+  "BasePath": "_content/PoolManagerBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
